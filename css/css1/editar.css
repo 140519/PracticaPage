@@ -1,0 +1,12 @@
+* form {  
+    padding: 20px 0px 0px 30px; 
+    font-family:verdana,arial; 
+    font-size:9pt; 
+}  
+
+textarea {
+position: relative;
+ top:  -22px; 
+ left: 0px;
+
+}

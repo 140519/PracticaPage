@@ -1,0 +1,16 @@
+.ocultar{
+    padding-right: 50px;
+}
+
+.border border-primary{
+    background-color: chocolate
+}
+
+.col{
+    background-color:darkgray;
+    height: 200px;
+    margin: 0 auto;
+    padding: 0px;
+        
+}
+

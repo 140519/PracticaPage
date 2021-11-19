@@ -1,0 +1,117 @@
+* body {
+	
+	font-family:"BrowalliaUPC", Gadget, sans-serif;
+	
+	}
+
+table {
+  background:#EEE; 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+
+}
+
+h6 {
+margin: 10px;
+}
+
+.myButton:hover {
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+@media screen and (max-width: 320px) {
+    * body {
+	
+	font-family:"BrowalliaUPC", Gadget, sans-serif;
+	
+	}
+     table {
+       width: 96%;
+        background:#EEE; 
+      width: 100%; 
+      border-collapse: collapse;
+     }
+    tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+
+}
+
+h6 {
+margin: 10px;
+}
+
+.myButton:hover {
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+}
+@media screen and (min-width: 768px) {
+        * body {
+	
+	font-family:"BrowalliaUPC", Gadget, sans-serif;
+	
+	}
+     table {
+       width: 96%;
+        background:#EEE; 
+      width: 100%; 
+      border-collapse: collapse;
+     }
+    tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+
+}
+
+h6 {
+margin: 10px;
+}
+
+.myButton:hover {
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+}

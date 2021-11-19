@@ -1,0 +1,57 @@
+.principal div{
+    display: inline-block;
+    margin-left: 50px;
+    vertical-align: top;
+}
+
+.principal{
+    margin-top: 50px;
+    margin-left: 275px;
+   
+}
+
+.principal div:hover{
+    cursor: pointer;
+}
+
+#addC img{
+    height: 320px;
+    width: 320px;
+}
+
+#upC img{
+    height: 320px;
+    width: 320px;
+}
+
+#addM img{
+    height: 250px;
+    width: 250px;
+}
+
+#upM img{
+    height: 250px;
+    width: 250px;
+}
+
+#deleteM img{
+    height: 250px;
+    width: 250px;
+}
+
+#addMa img{
+    height: 250px;
+    width: 250px;
+}
+
+#upMa img{
+    height: 250px;
+    width: 250px;
+}
+
+#deleteMa img ,#seC img{
+    height: 250px;
+    width: 250px;
+}
+
+
